@@ -61,7 +61,7 @@ Un tema visual elegante de estilo translúcido y cristal tintado (*Tinted Glass*
 - **Olive Green Glass:**
   ![Mac Tahoe Olive Green Glass](./assets/MacTahoe-Tinted-Olive-Green-Glass-Demostration.png)
 - **Purple Glass:**
-  ![Mac Tahoe Purple Glass](./assets/MacTahoe-Tinted-Purple-Glass-Demostration.png)
+ ![Mac Tahoe Purple Glass](./assets/MacTahoe-Tinted-Purple-Glass-Demostration-.png)
 - **Pink Glass:**
   ![Mac Tahoe Pink Glass](./assets/MacTahoe-Tinted-Pink-Glass-Demostration.png)
 - **Edge Glass:**
