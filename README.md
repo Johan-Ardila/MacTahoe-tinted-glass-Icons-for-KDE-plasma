@@ -32,15 +32,18 @@ An elegant translucent and tinted glass visual theme, inspired by the modern aes
 - **Land Glass:**
   ![Mac Tahoe Land Glass](./assets/MacTahoe-Tinted-Land-Glass-Demostration.png)
 
-### ✨ Features
-- 🪟 **Glassmorphism Effect:** Subtle and elegant transparencies inspired by modern interfaces.
-- 🎨 **Multiple Color Variants:** Includes *Grey, Azure, Carmesi, Olive Green, Purple, Pink, Edge,* and *Land* options.
-- ⚡ **Optimized:** Designed to integrate smoothly and maintain low resource usage.
+### Features
+- **Glassmorphism Effect:** Subtle and elegant transparencies inspired by modern interfaces.
+- **Multiple Color Variants:** Includes *Grey, Azure, Carmesi, Olive Green, Purple, Pink, Edge,* and *Land* options.
 
-### 📦 Installation
+### Installation
 1. Clone this repository or download the ZIP:
    ```bash
    git clone [https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git](https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git)
+2. Look for this option in your KDE Plasma icons section:
+   ![Guide-1](./assets/Guide-1.png)
+3. Finally, select the file, click open, and you're all set—it will be successfully installed:
+   ![Guide-2](./assets/Guide-2.png)
 
 <a name="-english"></a>
 ## 🇪🇸 spanish
@@ -66,12 +69,15 @@ Un tema visual elegante de estilo translúcido y cristal tintado (*Tinted Glass*
 - **Land Glass:**
   ![Mac Tahoe Land Glass](./assets/MacTahoe-Tinted-Land-Glass-Demostration.png)
 
-## ✨ Características
-- 🪟 **Efecto Glassmorphism:** Transparencias sutiles y elegantes inspiradas en interfaces modernas.
-- 🎨 **Múltiples Variantes:** Incluye opciones en tonos *Grey, Azure, Carmesí, Olive Green, Purple, Pink, Edge* y *Land*.
-- ⚡ **Optimizado:** Diseñado para integrarse fluidamente y mantener un bajo consumo de recursos.
+## Características
+- **Efecto Glassmorphism:** Transparencias sutiles y elegantes inspiradas en interfaces modernas.
+- **Múltiples Variantes:** Incluye opciones en tonos *Grey, Azure, Carmesí, Olive Green, Purple, Pink, Edge* y *Land*.
 
-## 📦 Instalación
+## Instalación
 1. Clona este repositorio o descarga el ZIP:
    ```bash
    git clone [https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git](https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git)
+ 2.Busca esta opcion en tu seccion de iconos de KDE plasma:
+  ![Guide-1](./assets/Guide-1.png)
+ 3.Y por último escoje el archivo y dale en abrir y listo ya lo tendrías instalado satisfactoriamente
+  ![Guide-1](./assets/Guide-2.png)
