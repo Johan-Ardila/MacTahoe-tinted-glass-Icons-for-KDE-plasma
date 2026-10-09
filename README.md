@@ -39,7 +39,7 @@ An elegant translucent and tinted glass visual theme, inspired by the modern aes
 ### Installation
 1. Clone this repository or download the ZIP:
    ```bash
-   git clone [https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git](https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git)
+   git clone https://github.com/Johan-Ardila/MacTahoe-Tinted-Glass-Icons.git
 2. Look for this option in your KDE Plasma icons section:
    ![Guide-1](./assets/Guide-1.png)
 3. Finally, select the file, click open, and you're all set—it will be successfully installed:
@@ -76,7 +76,7 @@ Un tema visual elegante de estilo translúcido y cristal tintado (*Tinted Glass*
 ## Instalación
 1. Clona este repositorio o descarga el ZIP:
    ```bash
-   git clone [https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git](https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git)
+   git clone https://github.com/Johan-Ardila/MacTahoe-Tinted-Glass-Icons.git
  2.Busca esta opcion en tu seccion de iconos de KDE plasma:
   ![Guide-1](./assets/Guide-1.png)
  3.Y por último escoje el archivo y dale en abrir y listo ya lo tendrías instalado satisfactoriamente
