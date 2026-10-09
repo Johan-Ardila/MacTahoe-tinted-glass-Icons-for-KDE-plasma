@@ -1,0 +1,77 @@
+# MacTahoe Tinted Glass 
+  ![MacTahoe Tinted Glass Dock icons demostration](./assets/Dock-Demostration.png)
+
+
+<div align="center">
+  <a href="#-english">English</a> | <a href="#-español">Español</a>
+</div>
+
+---
+
+<a name="-english"></a>
+## 🇬🇧 English
+
+An elegant translucent and tinted glass visual theme, inspired by the modern aesthetic of macOS Tahoe, designed to customize your desktop environment.
+
+### Preview (Color Variants)
+
+- **Grey Glass:**
+  ![Mac Tahoe Grey Glass](./assets/Mac-Tahoe-Tinted-Grey-Glass-Demostration.png)
+- **Azure Glass:**
+  ![Mac Tahoe Azure Glass](./assets/MacTahoe-Tinted-Azure-Glass-Demostration.png)
+- **Carmesi Glass:**
+  ![Mac Tahoe Carmesi Glass](./assets/MacTahoe-Tinted-Carmesi-Glass-Demostration.png)
+- **Olive Green Glass:**
+  ![Mac Tahoe Olive Green Glass](./assets/MacTahoe-Tinted-Olive-Green-Glass-Demostration.png)
+- **Purple Glass:**
+  ![Mac Tahoe Purple Glass](./assets/MacTahoe-Tinted-Purple-Glass-Demostration.png)
+- **Pink Glass:**
+  ![Mac Tahoe Pink Glass](./assets/MacTahoe-Tinted-Pink-Glass-Demostration.png)
+- **Edge Glass:**
+  ![Mac Tahoe Edge Glass](./assets/MacTahoe-Tinted-Edge-Glass-Demostration.png)
+- **Land Glass:**
+  ![Mac Tahoe Land Glass](./assets/MacTahoe-Tinted-Land-Glass-Demostration.png)
+
+### ✨ Features
+- 🪟 **Glassmorphism Effect:** Subtle and elegant transparencies inspired by modern interfaces.
+- 🎨 **Multiple Color Variants:** Includes *Grey, Azure, Carmesi, Olive Green, Purple, Pink, Edge,* and *Land* options.
+- ⚡ **Optimized:** Designed to integrate smoothly and maintain low resource usage.
+
+### 📦 Installation
+1. Clone this repository or download the ZIP:
+   ```bash
+   git clone [https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git](https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git)
+
+<a name="-english"></a>
+## 🇪🇸 spanish
+
+Un tema visual elegante de estilo translúcido y cristal tintado (*Tinted Glass*), inspirado en la estética moderna de macOS Tahoe, diseñado para personalizar tu entorno de escritorio.
+
+## 📸 Vista Previa (Variantes de Color)
+
+- **Grey Glass:**
+  ![Mac Tahoe Grey Glass](./assets/Mac-Tahoe-Tinted-Grey-Glass-Demostration.png)
+- **Azure Glass:**
+  ![Mac Tahoe Azure Glass](./assets/MacTahoe-Tinted-Azure-Glass-Demostration.png)
+- **Carmesí Glass:**
+  ![Mac Tahoe Carmesi Glass](./assets/MacTahoe-Tinted-Carmesi-Glass-Demostration.png)
+- **Olive Green Glass:**
+  ![Mac Tahoe Olive Green Glass](./assets/MacTahoe-Tinted-Olive-Green-Glass-Demostration.png)
+- **Purple Glass:**
+  ![Mac Tahoe Purple Glass](./assets/MacTahoe-Tinted-Purple-Glass-Demostration.png)
+- **Pink Glass:**
+  ![Mac Tahoe Pink Glass](./assets/MacTahoe-Tinted-Pink-Glass-Demostration.png)
+- **Edge Glass:**
+  ![Mac Tahoe Edge Glass](./assets/MacTahoe-Tinted-Edge-Glass-Demostration.png)
+- **Land Glass:**
+  ![Mac Tahoe Land Glass](./assets/MacTahoe-Tinted-Land-Glass-Demostration.png)
+
+## ✨ Características
+- 🪟 **Efecto Glassmorphism:** Transparencias sutiles y elegantes inspiradas en interfaces modernas.
+- 🎨 **Múltiples Variantes:** Incluye opciones en tonos *Grey, Azure, Carmesí, Olive Green, Purple, Pink, Edge* y *Land*.
+- ⚡ **Optimizado:** Diseñado para integrarse fluidamente y mantener un bajo consumo de recursos.
+
+## 📦 Instalación
+1. Clona este repositorio o descarga el ZIP:
+   ```bash
+   git clone [https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git](https://github.com/tu-usuario/MacTahoe-Tinted-Glass.git)
