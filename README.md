@@ -80,4 +80,8 @@ Un tema visual elegante de estilo translúcido y cristal tintado (*Tinted Glass*
  2.Busca esta opcion en tu seccion de iconos de KDE plasma:
   ![Guide-1](./assets/Guide-1.png)
  3.Y por último escoje el archivo y dale en abrir y listo ya lo tendrías instalado satisfactoriamente
+<<<<<<< HEAD
   ![Guide-1](./assets/Guide-2.png)
+=======
+  ![Guide-1](./assets/Guide-2.png)
+>>>>>>> ea36a4dd04277d392c25a1d96ef0db2949af5017
