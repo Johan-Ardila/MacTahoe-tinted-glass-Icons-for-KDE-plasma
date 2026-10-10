@@ -15,6 +15,8 @@ An elegant translucent and tinted glass visual theme, inspired by the modern aes
 
 ### Preview (Color Variants)
 
+- **Liquid Glass:**
+  ![Mac Tahoe Grey Glass](./assets/MacTahoe-Liquid-Glass-Demostration.png)
 - **Grey Glass:**
   ![Mac Tahoe Grey Glass](./assets/Mac-Tahoe-Tinted-Grey-Glass-Demostration.png)
 - **Azure Glass:**
@@ -22,7 +24,7 @@ An elegant translucent and tinted glass visual theme, inspired by the modern aes
 - **Carmesi Glass:**
   ![Mac Tahoe Carmesi Glass](./assets/MacTahoe-Tinted-Carmesi-Glass-Demostration.png)
 - **Olive Green Glass:**
-  ![Mac Tahoe Olive Green Glass](./assets/)
+  ![Mac Tahoe Olive Green Glass](./assets/MacTahoe-Tinted-Olive-Green-Glass-Demostration.png)
 - **Purple Glass:**
   ![Mac Tahoe Purple Glass](./assets/MacTahoe-Tinted-Purple-Glass-Demostration-.png)
 - **Pink Glass:**
@@ -50,8 +52,10 @@ An elegant translucent and tinted glass visual theme, inspired by the modern aes
 
 Un tema visual elegante de estilo translúcido y cristal tintado (*Tinted Glass*), inspirado en la estética moderna de macOS Tahoe, diseñado para personalizar tu entorno de escritorio.
 
-## 📸 Vista Previa (Variantes de Color)
+##  Vista Previa (Variantes de Color)
 
+- **Liquid Glass:**
+  ![Mac Tahoe Grey Glass](./assets/MacTahoe-Liquid-Glass-Demostration.png)
 - **Grey Glass:**
   ![Mac Tahoe Grey Glass](./assets/Mac-Tahoe-Tinted-Grey-Glass-Demostration.png)
 - **Azure Glass:**
@@ -79,9 +83,7 @@ Un tema visual elegante de estilo translúcido y cristal tintado (*Tinted Glass*
    git clone https://github.com/Johan-Ardila/MacTahoe-Tinted-Glass-Icons.git
  2.Busca esta opcion en tu seccion de iconos de KDE plasma:
   ![Guide-1](./assets/Guide-1.png)
+  
  3.Y por último escoje el archivo y dale en abrir y listo ya lo tendrías instalado satisfactoriamente
-<<<<<<< HEAD
-  ![Guide-1](./assets/Guide-2.png)
-=======
-  ![Guide-1](./assets/Guide-2.png)
->>>>>>> ea36a4dd04277d392c25a1d96ef0db2949af5017
+  ![Guide-2](./assets/Guide-2.png)
+
