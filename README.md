@@ -24,7 +24,7 @@ An elegant translucent and tinted glass visual theme, inspired by the modern aes
 - **Carmesi Glass:**
   ![Mac Tahoe Carmesi Glass](./assets/MacTahoe-Tinted-Carmesi-Glass-Demostration.png)
 - **Olive Green Glass:**
-  ![Mac Tahoe Olive Green Glass](./assets/)
+  ![Mac Tahoe Olive Green Glass](./assets/MacTahoe-Tinted-Olive-Green-Glass-Demostration.png)
 - **Purple Glass:**
   ![Mac Tahoe Purple Glass](./assets/MacTahoe-Tinted-Purple-Glass-Demostration-.png)
 - **Pink Glass:**
